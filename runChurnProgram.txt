@@ -1,0 +1,4 @@
+@echo OFF
+cd "S:\eCommerce\E-Commerce\Analysis & Reporting\Omni-Channel\churn project"
+Rscript toScoreNewChurn.R
+pause
